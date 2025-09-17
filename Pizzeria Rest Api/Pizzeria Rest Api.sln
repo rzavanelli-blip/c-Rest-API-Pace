@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizzeria Rest Api", "Pizzeria Rest Api\Pizzeria Rest Api.csproj", "{346DE191-7287-4E54-9BE3-3985FBA434CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346DE191-7287-4E54-9BE3-3985FBA434CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346DE191-7287-4E54-9BE3-3985FBA434CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346DE191-7287-4E54-9BE3-3985FBA434CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346DE191-7287-4E54-9BE3-3985FBA434CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE8A77A-C375-48BA-9A9B-51846F36821B}
+	EndGlobalSection
+EndGlobal

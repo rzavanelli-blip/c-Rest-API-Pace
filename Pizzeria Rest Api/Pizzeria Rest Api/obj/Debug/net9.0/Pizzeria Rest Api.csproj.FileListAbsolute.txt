@@ -1,0 +1,29 @@
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\appsettings.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\Pizzeria Rest Api.staticwebassets.endpoints.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\Pizzeria Rest Api.exe
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\Pizzeria Rest Api.deps.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\Pizzeria Rest Api.runtimeconfig.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\Pizzeria Rest Api.dll
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\bin\Debug\net9.0\Pizzeria Rest Api.pdb
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.AssemblyInfo.cs
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.sourcelink.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\scopedcss\bundle\Pizzeria Rest Api.styles.css
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.dll
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\refint\Pizzeria Rest Api.dll
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.pdb
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\Pizzeria Rest Api.genruntimeconfig.cache
+C:\Users\rober\source\repos\Pizzeria Rest Api\Pizzeria Rest Api\obj\Debug\net9.0\ref\Pizzeria Rest Api.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pizzeria Rest Api/1.0.0": {
+        "runtime": {
+          "Pizzeria Rest Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizzeria Rest Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
