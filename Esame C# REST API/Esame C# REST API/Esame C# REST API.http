@@ -1,0 +1,6 @@
+@Esame_C__REST_API_HostAddress = http://localhost:5239
+
+GET {{Esame_C__REST_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
