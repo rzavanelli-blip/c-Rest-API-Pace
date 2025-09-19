@@ -1,0 +1,453 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Esame c# REST API Autore libro",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/login": {
+      "post": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Login utente",
+        "description": "Esegue il login e restituisce un token statico di esempio.",
+        "operationId": "Login",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Credenziali"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    },
+    "/api/autori": {
+      "get": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Ottieni tutti gli autori",
+        "description": "Restituisce la lista completa degli autori disponibili.",
+        "operationId": "GetAutori",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Autore"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Crea un nuovo autore",
+        "description": "Aggiunge un autore al database in memoria.",
+        "operationId": "CreateAutore",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Autore"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Autore"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/autori/{id}": {
+      "get": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Ottieni un autore per ID",
+        "description": "Restituisce l’autore con l’ID specificato.",
+        "operationId": "GetAutoreById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Autore"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Aggiorna un autore",
+        "description": "Aggiorna i dati di un autore esistente.",
+        "operationId": "UpdateAutore",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Autore"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "204": {
+            "description": "No Content"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Elimina un autore",
+        "description": "Elimina un autore e tutti i suoi libri associati.",
+        "operationId": "DeleteAutore",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/api/libri": {
+      "get": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Ottieni tutti i libri",
+        "description": "Restituisce la lista completa dei libri disponibili.",
+        "operationId": "GetLibri",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Libro"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Crea un nuovo libro",
+        "description": "Aggiunge un nuovo libro e lo associa a un autore esistente.",
+        "operationId": "CreateLibro",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Libro"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Libro"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request"
+          }
+        }
+      }
+    },
+    "/api/libri/{id}": {
+      "get": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Ottieni un libro per ID",
+        "description": "Restituisce il libro con l’ID specificato.",
+        "operationId": "GetLibroById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Libro"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Aggiorna un libro",
+        "description": "Aggiorna i dati di un libro esistente.",
+        "operationId": "UpdateLibro",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Libro"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "204": {
+            "description": "No Content"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Elimina un libro",
+        "description": "Elimina un libro e lo rimuove anche dalla lista dell’autore.",
+        "operationId": "DeleteLibro",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/api/autori/{autoreId}/libri": {
+      "get": {
+        "tags": [
+          "Esame c# REST API Autore libro"
+        ],
+        "summary": "Ottieni i libri di un autore",
+        "description": "Restituisce tutti i libri scritti da un determinato autore.",
+        "operationId": "GetLibriByAutore",
+        "parameters": [
+          {
+            "name": "autoreId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Libro"
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Autore": {
+        "type": "object",
+        "properties": {
+          "autoreId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "libri": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Libro"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Credenziali": {
+        "type": "object",
+        "properties": {
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Libro": {
+        "type": "object",
+        "properties": {
+          "libroId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "titolo": {
+            "type": "string",
+            "nullable": true
+          },
+          "autoreId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "annoPubblicazione": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "autore": {
+            "$ref": "#/components/schemas/Autore"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@Esame_c__REST_API_Autore_libro_HostAddress = http://localhost:5119
+
+GET {{Esame_c__REST_API_Autore_libro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

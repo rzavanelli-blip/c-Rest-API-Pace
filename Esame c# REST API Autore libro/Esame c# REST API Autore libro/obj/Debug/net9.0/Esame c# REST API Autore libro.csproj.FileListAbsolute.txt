@@ -1,0 +1,74 @@
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\appsettings.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.staticwebassets.endpoints.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.exe
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.deps.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.runtimeconfig.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.pdb
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.AssemblyInfo.cs
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.sourcelink.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\scopedcss\bundle\Esame c# REST API Autore libro.styles.css
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c#.2D91C238.Up2Date
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\refint\Esame c# REST API Autore libro.dll
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.pdb
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.genruntimeconfig.cache
+C:\Users\rober\source\repos\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\ref\Esame c# REST API Autore libro.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\appsettings.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.staticwebassets.endpoints.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.exe
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.deps.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.runtimeconfig.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Esame c# REST API Autore libro.pdb
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.AssemblyInfo.cs
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.sourcelink.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\scopedcss\bundle\Esame c# REST API Autore libro.styles.css
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c#.2D91C238.Up2Date
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\refint\Esame c# REST API Autore libro.dll
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.pdb
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\Esame c# REST API Autore libro.genruntimeconfig.cache
+C:\Users\rober\Desktop\Esame c# REST API Autore libro\Esame c# REST API Autore libro\obj\Debug\net9.0\ref\Esame c# REST API Autore libro.dll
